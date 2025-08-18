@@ -36,7 +36,7 @@
 ### 📫 Reach Me
 - Email: satapathy.3004@gmail.com
 - Instagram: Sidharth.01
-- Portfolio: https://your-username.github.io/portfolio/
+- Portfolio: https://github.com/SidharthSatapathy04/Sidharth-Satapathy
 
 ---
 
