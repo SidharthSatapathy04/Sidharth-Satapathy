@@ -35,7 +35,7 @@
 
 ### 📫 Reach Me
 - Email: satapathy.3004@gmail.com
-- Linkedin: SidharthSatapathy 
+- Linkedin: www.linkedin.com/in/sidharthsatapathy30042004 
 
 
 ---
