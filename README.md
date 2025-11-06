@@ -20,8 +20,8 @@ I'm a Computer Science student from India with a passion for building intelligen
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidharth-Satapathy&show_icons=true&theme=tokyonight&rank_icon=github" alt="Sidharth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharth-Satapathy&layout=compact&theme=tokyonight" alt="Sidharth's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SidharthSatapathy04&show_icons=true&theme=tokyonight&rank_icon=github" alt="Sidharth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthSatapathy04&layout=compact&theme=tokyonight" alt="Sidharth's Top Languages" />
 </p>
 
 ---
