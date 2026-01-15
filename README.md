@@ -17,15 +17,6 @@
 
 I'm a Computer Science student from India with a passion for building intelligent systems and robust applications. I specialize in combining **IoT + AI** (like ESP32 and sensors) with **full-stack** development. I have a strong foundation in core CS concepts like DSA, DBMS, and Networking.
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SidharthSatapathy04&show_icons=true&theme=tokyonight&rank_icon=github" alt="Sidharth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidharthSatapathy04&layout=compact&theme=tokyonight" alt="Sidharth's Top Languages" />
-</p>
-
----
-
 ## 🛠️ My Tech Stack
 
 ### Languages & AI
