@@ -1,6 +1,6 @@
 # Hi, I'm Sidharth 👋
 
-**CS Student • Systems & IoT • Full‑Stack • DSA**
+**CS Student • Systems & IoT • AI Enthusiast • DSA**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sidharthsatapathy30042004" target="_blank">
