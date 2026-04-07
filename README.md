@@ -1,6 +1,5 @@
 # Hi, I'm Sidharth 👋
-
-**CS Student • Systems & IoT • AI Enthusiast • DSA**
+**CS Student • AI/ML • IoT & Systems • Cloud • DSA**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sidharthsatapathy30042004" target="_blank">
@@ -15,25 +14,36 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student from India with a passion for building intelligent systems and robust applications. I specialize in combining **IoT + AI** (like ESP32 and sensors) with **full-stack** development. I have a strong foundation in core CS concepts like DSA, DBMS, and Networking.
+I'm a Computer Science student from India passionate about building intelligent systems and solving real-world problems through technology. I work across **AI/ML**, **IoT**, **cloud infrastructure**, and **full-stack development** — from training predictive models on health and energy datasets to deploying biometric IoT systems with live dashboards. I have a strong foundation in DSA, OOP, DBMS, and Networking.
+
+---
 
 ## 🛠️ My Tech Stack
 
-### Languages & AI
+### Languages & AI/ML
 <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/Artificial_Intelligence-4A90E2?style=for-the-badge" alt="AI"/>
+</p>
+
+### Cloud & Infrastructure
+<p>
+    <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ### Embedded & IoT
 <p>
     <img src="https://img.shields.io/badge/ESP32-E73D25?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
     <img src="https://img.shields.io/badge/ESP8266-E73D25?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266"/>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
     <img src="https://img.shields.io/badge/MQTT-6200EE?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-    <img src="https://img.shields.io/badge/HTTP-005C9A?style=for-the-badge" alt="HTTP"/>
 </p>
 
 ### Web & Database
@@ -56,6 +66,37 @@ I'm a Computer Science student from India with a passion for building intelligen
 
 ## 🧩 Featured Projects
 
-* **Emotion Detection (Python + TensorFlow)** — A CNN model built with Keras/TensorFlow for real-time facial emotion recognition from video streams.
-* **Smart Attendance System (ESP32 + R307 + SIM800L)** — Biometric (fingerprint) attendance system with SMS alerts via SIM800L and a MySQL backend.
-* **ESP32 Marauder Build** — Assembling and configuring a portable wireless penetration testing toolkit with SD card and touchscreen support.
+| Project | Type | Description |
+|--------|------|-------------|
+| 🫀 **Cardiovascular Disease Detection** | Group · ML | Built an end-to-end ML pipeline for early disease detection. Led data acquisition, preprocessing, feature engineering, and model training (Random Forest, SVM, Logistic Regression). |
+| ⚡ **EV Grid Stress Prediction** | Group · ML | Predictive model for forecasting electrical grid stress from large-scale EV charging. Handled time-series data acquisition, EDA, and model training validated via RMSE & MAE. |
+| 😶 **Facial Emotion Recognition** | Solo · CV | Real-time emotion detection using **DeepFace** and **OpenCV** on live webcam feed. Implements face detection, emotion classification, and video processing with pretrained DL models. |
+| 📋 **Smart Attendance System** | Solo · IoT | Biometric (fingerprint) attendance system using **ESP32 + R307 + MySQL** with a teacher dashboard showing live attendance percentages. |
+| 📡 **ESP8266 Wifi Deauth Build** | Solo · Security | Portable wifi deauthentication device.  |
+
+---
+
+## 🏅 Certifications
+
+### ☁️ Cloud & AI Infrastructure
+- 🔶 Oracle Cloud Infrastructure 2025 — **Certified Generative AI Professional**
+- 🔶 Oracle Cloud Infrastructure 2025 — **Certified Architect Associate**
+- 🔶 Oracle Cloud Infrastructure 2025 — **Certified Networking Professional**
+- 🔶 Oracle — **Certified AI Foundation Associate**
+
+### 🤖 AI, ML & Prompt Engineering
+- 🟩 NVIDIA — Building LLM Applications with **Prompt Engineering**
+- 🟦 IIT Guwahati via Coursera — **Programming with Generative AI**
+- 🟦 Google via Coursera — **Google AI Essentials**
+
+### 🏛️ Business, Ethics & Governance
+- 🎓 University of Colorado Boulder via Coursera — **Ethical Decision Making for Success in the Tech Industry**
+- 🎓 London Business School via Coursera — **Business for Good: Fundamentals of Corporate Responsibility**
+- 🎓 Coursera — **Corporate Governance**
+
+### 🛡️ Cybersecurity
+- TATA via Forage — **Cybersecurity Analyst Job Simulation**
+- Deloitte (AUS) via Forage — **Cyber Job Simulation**
+- Achemegrade — **Introductory Cybersecurity Course**
+---
+*Always learning. Always building.* 🚀
